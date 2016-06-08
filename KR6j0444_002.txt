@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:39.391273
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:11
 #+TITLE: 佛說妙吉祥最勝根本大教經
 #+PROPERTY: CBETA_ID T21n1217
 #+PROPERTY: ID KR6j0444
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1217
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0444_T_000-0081a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0444_T_002-0085a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 佛說妙吉祥最勝根本大教經卷¶
+佛說妙吉祥最勝根本大教經卷¶
 中¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
 
-6吠多梨印成就句召儀軌分
-:PROPERTIES:
-:head: 吠多梨印成就句召儀軌分第六
-:END:
-¶
+* 吠多梨印成就句召儀軌分第六¶
 
 復次焰鬘得迦明王根本十七字大明。名吠¶
 多梨祕密心印。能於焰鬘得迦大無畏明王¶
@@ -323,11 +318,7 @@
 在百由旬外亦令速來勿生疑惑。如是羂索¶
 成就之法。¶
 
-7焰鬘得迦吠多梨印修行儀軌分
-:PROPERTIES:
-:head: 焰鬘得迦吠多梨印修行儀軌分第七
-:END:
-¶
+* 焰鬘得迦吠多梨印修行儀軌分第七¶
 
 復次依法次第所有焰鬘得迦吠多梨印最上¶
 修行儀軌。於持明者能施成就。此是妙吉祥¶
